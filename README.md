@@ -5,7 +5,11 @@
 - 👯 Estou participando do DIO - Santander Bootcamp Fullstack 2022, aprendendo sobre Javascript, Html5, CSS3, Angular, Java e Spring Boot.
 - 🤔 Interesses em Programação, Pentests, CTF, Red Team, DevSecOps, IOT, Developer; 
 - 😄 Sempre aprendendo.
-- ⚡ Ah, eu monto o cubo mágico em menos de 15 segundos;<a href="https://www.youtube.com/watch?v=C4j8XLjov3Y"> LINK</a> 
+- ⚡ Ah, eu monto o cubo mágico em menos de 15 segundos;<a href="https://www.youtube.com/watch?v=C4j8XLjov3Y"> LINK</a>
+<div style="display: inline_block">
+  <img align="center" alt="Jover-cubo" width="100" src="https://media0.giphy.com/media/2CV88JdrUCOYT5Ec8j/giphy.gif?cid=ecf05e47ong3i341fz1a80r3z931s9h7m57hifxikpc0ceb2&rid=giphy.gif&ct=g">
+</div>
+
 
 <div align="center">
   <a href="https://github.com/JoverSioli">
