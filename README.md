@@ -1,8 +1,8 @@
 #Olá, me chamo Jover Siqueira de Oliveira!
 
-- 🔭 Atualmente no penúltimo semestre da graduação em Cibersegurança.
-- 🌱 Possuo conhecimentos em Python, Javascript, Html5, CSS3, Versionamento de código.
-- 👯 Estou participando do DIO - Santander Bootcamp Fullstack 2022, aprendendo sobre Javascript, Html5, CSS3, Angular, Java e Spring Boot.
+- 🔭 Formando da graduação em Cibersegurança.
+- 🌱 Possuo conhecimentos em Python, Javascript, Html5, CSS3, Versionamento de código, Kali Linux.
+- 👯 Aprendendo cada dia mais sobre como ser um Hacker Ético,
 - 🤔 Interesses em Programação, Pentests, CTF, Red Team, DevSecOps, IOT, Developer; 
 - 😄 Sempre aprendendo.
 - ⚡ Ah, eu monto o cubo mágico em menos de 15 segundos;<a href="https://www.youtube.com/watch?v=C4j8XLjov3Y"> LINK</a>
